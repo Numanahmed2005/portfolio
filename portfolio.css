@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+}
+/*header and navigation style*/
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin: 50px;
+  
+}
+
+
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+.text-primary{
+    color: khaki;
+}
+.btn-primary{
+    color: floralwhite;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+
+}
+/* banner style */
+.banner{
+    margin:  0 200px;
+    display: flex;
+    align-items: center;
+}
+    
